@@ -188,3 +188,36 @@ input {
     border: 1px solid white;
 }
 
+.all{
+    display: flex;
+}
+
+.panel-ops{
+    display: flex;
+    width: 80%;
+    font-size: 14px;
+    font-family: inherit;
+}
+
+.panel-ops p {
+    margin-left: 20px;
+}
+
+.panels{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.all{
+    gap: 5px;
+}
+
+.panel-shop{
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 600;
+}
