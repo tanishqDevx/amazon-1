@@ -361,3 +361,11 @@ a:hover{
     background-color: #222f3d;
     height: 70px;
 }
+.box-con a:hover{
+    transform: scale(1.05);
+}
+
+.box-con a{
+    transition: transform 0.3s ease;
+
+}
