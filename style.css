@@ -265,7 +265,7 @@ input {
     background-color: white;
     padding: 20px 0px 15px;
     border: none;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .boxim{
@@ -281,4 +281,13 @@ input {
 .box-con p{
     color: #007185;
     margin-top: 13px;
+}
+
+.foot-pan1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: #37475a;
+    color: white;
 }
